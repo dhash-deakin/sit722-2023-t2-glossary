@@ -74,7 +74,78 @@ var data = [
     "title": "Source Control",
     "description": "Source Control, also known as version control or revision control, is a system that tracks changes to files and code over time. It allows developers to collaborate, manage codebases, and maintain a history of changes. This system enables teams to work on the same codebase concurrently without conflicts and provides the ability to revert to previous versions if necessary. Git is a popular distributed version control system widely used in the software development industry.",
     "reference": "https://www.atlassian.com/git/tutorials/what-is-version-control"
-  }
+  },
+  {
+  "ID": "13",
+  "title": "Serverless Computing",
+  "description": "Serverless is a cloud computing model that allows developers to build and deploy applications without the need to manage or provision servers explicitly. In a traditional server-based architecture, developers are responsible for setting up and maintaining the servers that run their applications. In a serverless model, this server management complexity is abstracted away.",
+  "reference": "https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless"
+},
+
+{
+  "ID": "14",
+  "title": "Open Source",
+  "description": "Open source refers to a software development approach that emphasizes transparency, collaboration, and the sharing of source code. In open source projects, the source code of a software program is made freely available to the public, allowing anyone to view, modify, distribute, and contribute to the codebase. This approach is in contrast to proprietary or closed-source software, where the source code is kept private and controlled by the organization or individual that developed it.",
+  "reference": "https://opensource.com/resources/what-open-source"
+},
+
+{
+  "ID": "15",
+  "title": "AWS",
+  "description": "AWS, or Amazon Web Services, is a comprehensive and widely used cloud computing platform provided by Amazon. It offers a broad set of cloud services that enable businesses, individuals, and organizations to build and deploy various applications, websites, and services without the need to invest in physical hardware or manage complex infrastructure.",
+  "reference": ""
+},
+
+{
+  "ID": "16",
+  "title": "Azure",
+  "description": "Azure, often referred to as Microsoft Azure, is a cloud computing platform and set of services provided by Microsoft. Similar to Amazon Web Services (AWS), Azure offers a wide range of cloud services that allow users to build, deploy, and manage applications and services without the need for on-premises hardware and infrastructure.",
+  "reference": ""
+},
+
+{
+  "ID": "17",
+  "title": "Database",
+  "description": "A database is a structured collection of data that is organized and stored in a way that allows for efficient retrieval, manipulation, and management of information. Databases are used to store a wide range of data, from simple text and numbers to complex multimedia files, and they play a crucial role in various applications and systems, including websites, business applications, scientific research, and more.",
+  "reference": ""
+},
+
+{
+  "ID": "18",
+  "title": "YAML",
+  "description": "YAML (short for \"YAML Ain't Markup Language\" or \"Yet Another Markup Language\") is a human-readable data serialization format. It's often used for configuration files and data exchange between applications and systems. YAML is designed to be easy for both humans to read and write, and for machines to parse and generate.",
+  "reference": ""
+},
+
+{
+  "ID": "19",
+  "title": "Grafana",
+  "description": "Grafana is an open-source platform for monitoring and observability, specifically focused on visualizing time-series data. It is commonly used to create interactive and customizable dashboards that display real-time and historical data from various sources, such as monitoring systems, databases, cloud platforms, and other data repositories.",
+  "reference": ""
+},
+
+{
+  "ID": "20",
+  "title": "Staging",
+  "description": "In software development, \"staging\" refers to an environment that replicates the production environment but is used for testing and quality assurance purposes before releasing new code or changes to the live production system. The staging environment is an intermediary step between development and production, where software changes are thoroughly tested and validated before being deployed to the actual users.",
+  "reference": ""
+},
+
+{
+  "ID": "21",
+  "title": "API",
+  "description": "API stands for \"Application Programming Interface.\" It is a set of rules, protocols, and tools that allow different software applications to communicate and interact with each other. APIs define the methods and data structures that developers can use to build and integrate software components and services.",
+  "reference": ""
+},
+
+{
+  "ID": "22",
+  "title": "Shell",
+  "description": "Shell scripting refers to the process of creating and writing scripts using a shell scripting language to automate and execute a series of commands in a command-line interface (shell). The shell is a command-line interface that allows users to interact with an operating system by entering text commands. Shell scripts are used to automate tasks, execute system commands, and perform various operations without the need for manual input.",
+  "reference": ""
+},
+
+  
 ];
 
 
