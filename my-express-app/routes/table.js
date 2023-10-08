@@ -98,55 +98,64 @@ var data = [
     title: "Open Source",
     description:
       "Open source refers to a software development approach that emphasizes transparency, collaboration, and the sharing of source code. In open source projects, the source code of a software program is made freely available to the public, allowing anyone to view, modify, distribute, and contribute to the codebase. This approach is in contrast to proprietary or closed-source software, where the source code is kept private and controlled by the organization or individual that developed it.",
-    reference: "  Opensource.com, “What is open source?,” Opensource.com, https://opensource.com/resources/what-open-source (accessed Oct. 8, 2023). ",
+    reference:
+      "  Opensource.com, “What is open source?,” Opensource.com, https://opensource.com/resources/what-open-source (accessed Oct. 8, 2023). ",
   },
   {
     title: "AWS",
     description:
       "AWS, or Amazon Web Services, is a comprehensive and widely used cloud computing platform provided by Amazon. It offers a broad set of cloud services that enable businesses, individuals, and organizations to build and deploy various applications, websites, and services without the need to invest in physical hardware or manage complex infrastructure.",
-    reference: "  N. Barney and A. S. Gillis, “What is AWS (Amazon Web Services) and how does it work?,” SearchAWS, https://www.techtarget.com/searchaws/definition/Amazon-Web-Services (accessed Sep. 8, 2023). ",
+    reference:
+      "  N. Barney and A. S. Gillis, “What is AWS (Amazon Web Services) and how does it work?,” SearchAWS, https://www.techtarget.com/searchaws/definition/Amazon-Web-Services (accessed Sep. 8, 2023). ",
   },
   {
     title: "Azure",
     description:
       "Azure, often referred to as Microsoft Azure, is a cloud computing platform and set of services provided by Microsoft. Similar to Amazon Web Services (AWS), Azure offers a wide range of cloud services that allow users to build, deploy, and manage applications and services without the need for on-premises hardware and infrastructure.",
-    reference: "  S. J. Bigelow, “What is Microsoft Azure and how does it work?,” Cloud Computing, https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure (accessed Oct. 8, 2023). ",
+    reference:
+      "  S. J. Bigelow, “What is Microsoft Azure and how does it work?,” Cloud Computing, https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure (accessed Oct. 8, 2023). ",
   },
   {
     title: "Database",
     description:
       "A database is a structured collection of data that is organized and stored in a way that allows for efficient retrieval, manipulation, and management of information. Databases are used to store a wide range of data, from simple text and numbers to complex multimedia files, and they play a crucial role in various applications and systems, including websites, business applications, scientific research, and more.",
-    reference: "  “What is a database?,” What Is a Database | Oracle Australia, https://www.oracle.com/au/database/what-is-database/ (accessed Oct. 8, 2023). ",
+    reference:
+      "  “What is a database?,” What Is a Database | Oracle Australia, https://www.oracle.com/au/database/what-is-database/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "YAML",
     description:
       'YAML (short for "YAML Ain\'t Markup Language" or "Yet Another Markup Language") is a human-readable data serialization format. It\'s often used for configuration files and data exchange between applications and systems. YAML is designed to be easy for both humans to read and write, and for machines to parse and generate.',
-    reference: "  “What is YAML?,” Red Hat - We make open source technologies for the enterprise, https://www.redhat.com/en/topics/automation/what-is-yaml (accessed Oct. 8, 2023). ",
+    reference:
+      "  “What is YAML?,” Red Hat - We make open source technologies for the enterprise, https://www.redhat.com/en/topics/automation/what-is-yaml (accessed Oct. 8, 2023). ",
   },
   {
     title: "Grafana",
     description:
       "Grafana is an open-source platform for monitoring and observability, specifically focused on visualizing time-series data. It is commonly used to create interactive and customizable dashboards that display real-time and historical data from various sources, such as monitoring systems, databases, cloud platforms, and other data repositories.",
-    reference: "  “Grafana OSS: Leading Observability Tool for Visualizations &amp; Dashboards,” Grafana Labs, https://grafana.com/oss/grafana/ (accessed Oct. 8, 2023). ",
+    reference:
+      "  “Grafana OSS: Leading Observability Tool for Visualizations &amp; Dashboards,” Grafana Labs, https://grafana.com/oss/grafana/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "Staging",
     description:
       'In software development, "staging" refers to an environment that replicates the production environment but is used for testing and quality assurance purposes before releasing new code or changes to the live production system. The staging environment is an intermediary step between development and production, where software changes are thoroughly tested and validated before being deployed to the actual users.',
-    reference: "  T. Mylonas, “What are environments in software development? A guide to the development, beta, and production environments.,” Codebots, https://codebots.com/app-development/what-are-environments-in-software-development-a-guide-to-the-development-beta-and-production-environments (accessed Oct. 8, 2023). ",
+    reference:
+      "  T. Mylonas, “What are environments in software development? A guide to the development, beta, and production environments.,” Codebots, https://codebots.com/app-development/what-are-environments-in-software-development-a-guide-to-the-development-beta-and-production-environments (accessed Oct. 8, 2023). ",
   },
   {
     title: "API",
     description:
       'API stands for "Application Programming Interface." It is a set of rules, protocols, and tools that allow different software applications to communicate and interact with each other. APIs define the methods and data structures that developers can use to build and integrate software components and services.',
-    reference: "  “What is an application programming interface (API)?,” IBM, https://www.ibm.com/topics/api (accessed Oct. 8, 2023). ",
+    reference:
+      "  “What is an application programming interface (API)?,” IBM, https://www.ibm.com/topics/api (accessed Oct. 8, 2023). ",
   },
   {
     title: "Shell",
     description:
       "Shell scripting refers to the process of creating and writing scripts using a shell scripting language to automate and execute a series of commands in a command-line interface (shell). The shell is a command-line interface that allows users to interact with an operating system by entering text commands. Shell scripts are used to automate tasks, execute system commands, and perform various operations without the need for manual input.",
-    reference: "  Z. Hira, “Shell scripting for beginners – how to write bash scripts in linux,” freeCodeCamp.org, https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/ (accessed Oct. 8, 2023). ",
+    reference:
+      "  Z. Hira, “Shell scripting for beginners – how to write bash scripts in linux,” freeCodeCamp.org, https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/ (accessed Oct. 8, 2023). ",
   },
 
   {
@@ -257,79 +266,92 @@ var data = [
     title: "Load Balancing",
     description:
       "Load balancing is the practice of distributing incoming network traffic or requests across multiple servers or resources to ensure efficient utilization, prevent overloading, and improve the availability and reliability of applications. It plays a crucial role in optimizing application performance and ensuring a seamless user experience.",
-    reference: "D. Tomar, “Load balancing 101 ⚖️: Achieving scalability and high availability 🤹🏻‍♀️,” DEV Community, https://dev.to/devangtomar/load-balancing-101-achieving-scalability-and-high-availability-2pd9 (accessed Oct. 8, 2023). ",
+    reference:
+      "D. Tomar, “Load balancing 101 ⚖️: Achieving scalability and high availability 🤹🏻‍♀️,” DEV Community, https://dev.to/devangtomar/load-balancing-101-achieving-scalability-and-high-availability-2pd9 (accessed Oct. 8, 2023). ",
   },
   {
     title: "High Availability (HA)",
     description:
       "High Availability refers to a system or application's ability to remain operational and accessible even in the face of hardware failures, software errors, or other disruptions, often achieved through redundancy and failover mechanisms. HA is essential for mission-critical applications that require uninterrupted service availability.",
-    reference: "B. Lutkevich and A. S. Gillis, “What is high availability? - definition from whatis.com,” Data Center, https://www.techtarget.com/searchdatacenter/definition/high-availability (accessed Oct. 8, 2023). ",
+    reference:
+      "B. Lutkevich and A. S. Gillis, “What is high availability? - definition from whatis.com,” Data Center, https://www.techtarget.com/searchdatacenter/definition/high-availability (accessed Oct. 8, 2023). ",
   },
   {
     title: "ELK Stack (Elasticsearch, Logstash, Kibana)",
     description:
       "The ELK Stack is a set of open-source tools used for log and data analytics. Elasticsearch is a search and analytics engine, Logstash is a data processing pipeline, and Kibana is a visualization and management platform. Together, they provide a comprehensive solution for collecting, processing, and visualizing log data, aiding in troubleshooting and performance analysis.",
-    reference: "“What Is ELK Stack,” Amazon, https://aws.amazon.com/what-is/elk-stack/ (accessed Oct. 8, 2023). ",
+    reference:
+      "“What Is ELK Stack,” Amazon, https://aws.amazon.com/what-is/elk-stack/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "Metrics",
     description:
       "Metrics are quantitative measurements or data points used to assess the performance, behavior, or health of systems, applications, or processes. They are crucial for monitoring and troubleshooting, providing actionable insights into system behavior and performance trends.",
-    reference: "“What are the three pillars of Observability? - crowdstrike,” crowdstrike.com, https://www.crowdstrike.com/cybersecurity-101/observability/three-pillars-of-observability/ (accessed Oct. 8, 2023). ",
+    reference:
+      "“What are the three pillars of Observability? - crowdstrike,” crowdstrike.com, https://www.crowdstrike.com/cybersecurity-101/observability/three-pillars-of-observability/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "Orchestration",
     description:
       "Orchestration is the automated coordination and management of multiple tasks, services, or containers to achieve a specific workflow or outcome, often used in the context of deploying and managing microservices or containers. It simplifies complex processes and ensures consistency in application deployments and scaling.",
-    reference: "A. Gupta, “Microservice orchestration,” LinkedIn, https://www.linkedin.com/pulse/microservice-orchestration-anubhav-gupta (accessed Oct. 8, 2023). ",
+    reference:
+      "A. Gupta, “Microservice orchestration,” LinkedIn, https://www.linkedin.com/pulse/microservice-orchestration-anubhav-gupta (accessed Oct. 8, 2023). ",
   },
   {
     title: "Service Level Agreement (SLA)",
     description:
       "A Service Level Agreement is a formal agreement between a service provider and a customer that defines the expected level of service, including performance metrics, availability, and response times. SLAs establish clear expectations and responsibilities, ensuring accountability and service quality.",
-    reference: "Failover is the process of automatically switching from a failed or inactive system or component to a backup or redundant system to ensure uninterrupted operation and minimize downtime. Failover mechanisms are critical for maintaining service continuity and reliability in the event of failures.",
+    reference:
+      "Failover is the process of automatically switching from a failed or inactive system or component to a backup or redundant system to ensure uninterrupted operation and minimize downtime. Failover mechanisms are critical for maintaining service continuity and reliability in the event of failures.",
   },
   {
     title: "Failover",
     description:
       "Failover is the process of automatically switching from a failed or inactive system or component to a backup or redundant system to ensure uninterrupted operation and minimize downtime. Failover mechanisms are critical for maintaining service continuity and reliability in the event of failures.",
-    reference: "A. Marget, “Failover: What it is and its importance in business continuity,” Unitrends, https://www.unitrends.com/blog/failover (accessed Oct. 8, 2023). ",
+    reference:
+      "A. Marget, “Failover: What it is and its importance in business continuity,” Unitrends, https://www.unitrends.com/blog/failover (accessed Oct. 8, 2023). ",
   },
   {
     title: "Incident Management",
     description:
       "Incident Management is a set of processes and activities aimed at identifying, responding to, and resolving incidents or disruptions in an organization's IT environment, often following predefined protocols. Effective incident management minimizes service disruptions and restores normal operations swiftly.",
-    reference: "“What is incident management?,” ServiceNow, https://www.servicenow.com/products/itsm/what-is-incident-management.html (accessed Oct. 8, 2023). ",
+    reference:
+      "“What is incident management?,” ServiceNow, https://www.servicenow.com/products/itsm/what-is-incident-management.html (accessed Oct. 8, 2023). ",
   },
   {
     title: "Artifact Repository",
     description:
       "An Artifact Repository is a centralized storage location for managing and storing software artifacts, libraries, dependencies, and other components used in the software development and deployment process. It simplifies version control and ensures consistency in software distribution and deployment.",
-    reference: "“What is an artifact repository?: Teamcity CI/CD guide,” JetBrains, https://www.jetbrains.com/teamcity/ci-cd-guide/concepts/artifact-repository/ (accessed Oct. 8, 2023). ",
+    reference:
+      "“What is an artifact repository?: Teamcity CI/CD guide,” JetBrains, https://www.jetbrains.com/teamcity/ci-cd-guide/concepts/artifact-repository/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "Immutable Infrastructure",
     description:
       "Immutable Infrastructure is an approach where infrastructure components are never modified after creation. Instead, updates are made by replacing existing instances with new ones, promoting consistency and reliability. Immutable infrastructure minimizes configuration drift and simplifies maintenance.",
-    reference: "H. Vird&amp;oacute;, “What is immutable infrastructure?,” DigitalOcean, https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure (accessed Oct. 8, 2023). ",
+    reference:
+      "H. Vird&amp;oacute;, “What is immutable infrastructure?,” DigitalOcean, https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure (accessed Oct. 8, 2023). ",
   },
   {
     title: "Kubectl",
     description:
       "Kubectl is a command-line tool used for interacting with Kubernetes clusters. It allows users to manage and control containerized applications and resources in a Kubernetes environment. With Kubectl, administrators can deploy, scale, and monitor containerized workloads efficiently.",
-    reference: "“Command line tool (kubectl),” Kubernetes, https://kubernetes.io/docs/reference/kubectl/ (accessed Oct. 8, 2023). ",
+    reference:
+      "“Command line tool (kubectl),” Kubernetes, https://kubernetes.io/docs/reference/kubectl/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "Azure CLI",
     description:
       "azurecli is a command-line interface (CLI) tool provided by Microsoft Azure for managing Azure resources and services. It allows users to interact with and automate tasks related to Azure cloud services. azurecli simplifies Azure resource provisioning, configuration, and management.",
-    reference: "Dbradish-Microsoft, “Azure Command-Line Interface (CLI) - overview,” Azure Command-Line Interface (CLI) - Overview | Microsoft Learn, https://learn.microsoft.com/en-us/cli/azure/ (accessed Oct. 8, 2023). ",
+    reference:
+      "Dbradish-Microsoft, “Azure Command-Line Interface (CLI) - overview,” Azure Command-Line Interface (CLI) - Overview | Microsoft Learn, https://learn.microsoft.com/en-us/cli/azure/ (accessed Oct. 8, 2023). ",
   },
   {
     title: "Anthos",
     description:
       "Anthos is a hybrid and multi-cloud platform developed by Google Cloud. It provides a set of tools and services for building, deploying, and managing applications across various cloud environments, including on-premises data centers, Google Cloud Platform (GCP), and other major public cloud providers like Amazon Web Services (AWS) and Microsoft Azure. Anthos is designed to enable organizations to modernize their applications, enhance operational efficiency, and maintain consistency across different cloud and on-premises environments.",
-    reference: "“Anthos Powers Enterprise Container platforms&nbsp; |&nbsp; google cloud,” Google, https://cloud.google.com/anthos/ (accessed Oct. 8, 2023). ",
+    reference:
+      "“Anthos Powers Enterprise Container platforms&nbsp; |&nbsp; google cloud,” Google, https://cloud.google.com/anthos/ (accessed Oct. 8, 2023). ",
   },
 ];
 
